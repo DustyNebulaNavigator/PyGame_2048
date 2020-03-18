@@ -1,6 +1,7 @@
 """
-Mihkel siim
-
+This is a game of 2048
+30.11.2019
+Mihkel Siim
 """
 
 import pygame
@@ -10,7 +11,7 @@ from utils.settings import Settings
 from utils.borders import Borders
 
 
-def game():
+def main():
     pygame.init()
     clock_object = pygame.time.Clock()
     game_settings = Settings()
@@ -55,4 +56,4 @@ def game():
 
 
 if __name__ == "__main__":
-    game()
+    main()

@@ -8,14 +8,14 @@ This is a 2048 game. It's made using `Python` and `PyGame` framework.
 - Using Terminal or CMD go into the main directory of this project (it has `app.py`)
 - Run the following commands:
     ```
-    >>> pip install -r requirements.txt
+    $ pip install -r requirements.txt
     ``` 
   
 ### Starting the game:
 - Using Terminal or CMD go into the main directory of this project (it has `app.py`)
 - Run the following commands:
     ```
-    >>> python3 app.py
+    $ python3 app.py
     ```
 ### Playing the game:
 - Use arrows to move blocks
